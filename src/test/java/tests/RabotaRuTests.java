@@ -36,6 +36,7 @@ public class RabotaRuTests extends TestBase {
     @DisplayName("Проверяем чекбоксы в фильтрах поиска")
     void checkboxesInFilterTest() {
         $x("//button[@aria-label='Фильтры']").click();
+        sleep(4000);
         $(byAttribute("class", "card__text dialog-card__inner")).$$("label")
                 .shouldHave(textsInAnyOrder("Для людей с инвалидностью",
                         "Пенсионерам",

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="fix3">
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="fix4">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
@@ -82,7 +82,7 @@
       <recent name="C:\Users\User\IdeaProjects\rabotaru\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.rabotaru [regression_tests]">
+  <component name="RunManager" selected="Gradle.RabotaRuTests">
     <configuration name="RabotaRuTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -194,10 +194,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RabotaRuTests" />
         <item itemvalue="Gradle.rabotaru [regression_tests]" />
         <item itemvalue="Gradle.rabotaru [allureReport]" />
         <item itemvalue="Gradle.rabotaru [allureServe]" />
-        <item itemvalue="Gradle.RabotaRuTests" />
         <item itemvalue="Gradle.RabotaRuTests.createResumeTest" />
       </list>
     </recent_temporary>
@@ -211,7 +211,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
-      <workItem from="1673970931246" duration="12141000" />
+      <workItem from="1673970931246" duration="13868000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -255,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673981110091</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix4">
+      <created>1673983464812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673983464812</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +285,7 @@
     <MESSAGE value="fix" />
     <MESSAGE value="fix2" />
     <MESSAGE value="fix3" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix3" />
+    <MESSAGE value="fix4" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix4" />
   </component>
 </project>
