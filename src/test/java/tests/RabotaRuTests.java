@@ -26,6 +26,7 @@ public class RabotaRuTests extends TestBase {
         });
         step("Нажимаем на кнопку Найти", () -> {
             $x("//button[@aria-label='Найти']").click();
+            sleep(5000);
         });
         step("Проверяем что произошел переход на страницу с результатами", () -> {
             $x("//h1[contains(text(),'Вакансии сварщика')]").shouldBe(visible);
@@ -60,10 +61,10 @@ public class RabotaRuTests extends TestBase {
     @Test
     @Tag("rabotaru")
     @Tag("smoke")
-    @DisplayName("Проверяем переход на сторис про Удаленную работу")
+    @DisplayName("Проверяем переход на сторис про Сбер")
     void storyRemoteTest() {
-        $$x("//li[@class='stories-inline-item__wrapper' and @data-visible='true']").findBy(text("Удален")).click();
-        $x("//h1[contains(text(),'Найдите удаленную работу уже сейчас')]").shouldBe(visible);
+        $$x("//li[@class='stories-inline-item__wrapper' and @data-visible='true']").get(0).click();
+        $x("//h1[contains(text(),'СБЕР')]").shouldBe(visible);
     }
 
     @Test
