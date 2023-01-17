@@ -15,7 +15,6 @@ import static io.qameta.allure.Allure.step;
 public class RabotaRuTests extends TestBase {
 
     @Test
-    @Tag("rabotaru")
     @Tag("smoke")
     @DisplayName("Поиск с главной страницы")
     void searchMainPageTest() {
@@ -34,7 +33,6 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("rabotaru")
     @Tag("smoke")
     @DisplayName("Проверяем чекбоксы в фильтрах поиска")
     void checkboxesInFilterTest() {
@@ -49,7 +47,6 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("rabotaru")
     @Tag("regression")
     @DisplayName("Проверяем отображение модального окна регистрации/входа по нажатию на Войти")
     void loginTest() {
@@ -59,7 +56,6 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("rabotaru")
     @Tag("smoke")
     @DisplayName("Проверяем переход на сторис про Сбер")
     void storyRemoteTest() {
@@ -68,7 +64,6 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("rabotaru")
     @Tag("regression")
     @DisplayName("Нажимаем Создать резюме и проверяем что произошел переход к форме регистрации")
     void createResumeTest() {
