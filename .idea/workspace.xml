@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="fix4">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="added Readme">
+      <change afterPath="$PROJECT_DIR$/readme_attach/Allure_Report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/Graphs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/Jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/Selenoid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/Telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/allure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/allure_suits.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Allure_Report.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/GitHub.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Gradle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Intelij_IDEA.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/JUnit5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Java.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Selenide.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Selenoid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/design/Telegram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/selenoid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme_attach/telegram_allure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Allure_Report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/GitHub-Mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Gradle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Intelij_IDEA.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/JUnit5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Jenkins.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Selenide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Selenoid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Telegram.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +98,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/rabotaru&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
+      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach" />
+      <recent name="C:\Users\User\IdeaProjects\rabotaru\images\design" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\src\test\java" />
     </key>
@@ -211,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
-      <workItem from="1673970931246" duration="13868000" />
+      <workItem from="1673970931246" duration="16052000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -262,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673983464812</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix5">
+      <created>1673985380572</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673985380572</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +324,8 @@
     <MESSAGE value="fix2" />
     <MESSAGE value="fix3" />
     <MESSAGE value="fix4" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix4" />
+    <MESSAGE value="fix5" />
+    <MESSAGE value="added Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Readme" />
   </component>
 </project>
