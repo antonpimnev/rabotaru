@@ -47,6 +47,12 @@ task rabotaru_tests(type: Test) {
     }
 }
 
+task regression_tests(type: Test) {
+    useJUnitPlatform {
+        includeTags("regression")
+    }
+}
+
 tasks.withType(Test) {
     systemProperties(System.getProperties())
     useJUnitPlatform()
