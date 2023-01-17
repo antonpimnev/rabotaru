@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.CollectionCondition.textsInAnyOrder;
-import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.byAttribute;
 import static com.codeborne.selenide.Selenide.*;
@@ -15,7 +14,7 @@ import static io.qameta.allure.Allure.step;
 public class RabotaRuTests extends TestBase {
 
     @Test
-    @Tag("smoke")
+    @Tag("rabotaru")
     @DisplayName("Поиск с главной страницы")
     void searchMainPageTest() {
         step("Вводим в строке поисковый запрос", () -> {
@@ -33,7 +32,7 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("smoke")
+    @Tag("rabotaru")
     @DisplayName("Проверяем чекбоксы в фильтрах поиска")
     void checkboxesInFilterTest() {
         $x("//button[@aria-label='Фильтры']").click();
@@ -47,7 +46,7 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("regression")
+    @Tag("rabotaru")
     @DisplayName("Проверяем отображение модального окна регистрации/входа по нажатию на Войти")
     void loginTest() {
         $x("//button[@aria-label='Войти' and @data-ripple='true']").click();
@@ -56,7 +55,7 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("smoke")
+    @Tag("rabotaru")
     @DisplayName("Проверяем переход на сторис про Сбер")
     void storyRemoteTest() {
         $$x("//li[@class='stories-inline-item__wrapper' and @data-visible='true']").get(0).click();
@@ -64,7 +63,7 @@ public class RabotaRuTests extends TestBase {
     }
 
     @Test
-    @Tag("regression")
+    @Tag("rabotaru")
     @DisplayName("Нажимаем Создать резюме и проверяем что произошел переход к форме регистрации")
     void createResumeTest() {
         $x("//button[@aria-label='Создать резюме' and @data-ripple='true']").click();

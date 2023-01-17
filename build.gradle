@@ -41,15 +41,9 @@ dependencies {
     )
 }
 
-task smoke_tests(type: Test) {
+task rabotaru_tests(type: Test) {
     useJUnitPlatform {
-        includeTags("smoke")
-    }
-}
-
-task regression_tests(type: Test) {
-    useJUnitPlatform {
-        includeTags("regression")
+        includeTags("rabotaru")
     }
 }
 
