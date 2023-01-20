@@ -15,7 +15,7 @@ public class RabotaRuTests extends TestBase {
 
     @Test
     @Tag("rabotaru")
-    @DisplayName("Поиск с главной страницы")
+    @DisplayName("Работа поиска на главной странице")
     void searchMainPageTest() {
         step("Вводим в строке поисковый запрос", () -> {
             SelenideElement searchInput = $x("//input[@placeholder='Должность, компания']");
@@ -32,7 +32,7 @@ public class RabotaRuTests extends TestBase {
 
     @Test
     @Tag("rabotaru")
-    @DisplayName("Проверяем чекбоксы в фильтрах поиска")
+    @DisplayName("Проверка фильтров поиска")
     void checkboxesInFilterTest() {
         step("Нажимаем на кнопку Фильтры", () -> {
         $x("//button[@aria-label='Фильтры']").click();
@@ -50,7 +50,7 @@ public class RabotaRuTests extends TestBase {
 
     @Test
     @Tag("rabotaru")
-    @DisplayName("Проверяем отображение модального окна регистрации/входа по нажатию на Войти")
+    @DisplayName("Проверка отображение модального окна регистрации/входа")
     void loginTest() {
         step("Нажимаем на кнопку Войти", () -> {
         $x("//button[@aria-label='Войти' and @data-ripple='true']").click();
@@ -63,7 +63,7 @@ public class RabotaRuTests extends TestBase {
 
     @Test
     @Tag("rabotaru")
-    @DisplayName("Проверяем переход на сторис про Сбер")
+    @DisplayName("Проверка перехода через сторис")
     void storyRemoteTest() {
         step("Нажимаем на сторис Сбер", () -> {
         $$x("//li[@class='stories-inline-item__wrapper' and @data-visible='true']").get(0).click();
@@ -75,7 +75,7 @@ public class RabotaRuTests extends TestBase {
 
     @Test
     @Tag("rabotaru")
-    @DisplayName("Нажимаем Создать резюме и проверяем что произошел переход к форме регистрации")
+    @DisplayName("Проверка перехода к созданию резюме")
     void createResumeTest() {
         step("Нажимаем на кнопку Создать резюме", () -> {
         $x("//button[@aria-label='Создать резюме' and @data-ripple='true']").click();

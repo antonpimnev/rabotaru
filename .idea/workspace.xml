@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="added Readme">
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_attach/Graphs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_attach/allure.png" beforeDir="false" afterPath="$PROJECT_DIR$/readme_attach/allure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_attach/allure_suits.png" beforeDir="false" afterPath="$PROJECT_DIR$/readme_attach/allure_suits.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_attach/settings.png" beforeDir="false" afterPath="$PROJECT_DIR$/readme_attach/settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme_attach/telegram_allure.png" beforeDir="false" afterPath="$PROJECT_DIR$/readme_attach/telegram_allure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,16 +74,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/rabotaru/readme_attach/design&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach" />
+      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\images\design" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\src\test\java" />
@@ -216,7 +221,7 @@
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
       <workItem from="1673970931246" duration="16485000" />
-      <workItem from="1674234565144" duration="1203000" />
+      <workItem from="1674234565144" duration="3722000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -281,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673987849683</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Refactor">
+      <created>1674236164344</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674236164345</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +319,7 @@
     <MESSAGE value="fix4" />
     <MESSAGE value="fix5" />
     <MESSAGE value="added Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Readme" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
 </project>
