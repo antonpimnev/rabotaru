@@ -5,38 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="added Readme">
-      <change afterPath="$PROJECT_DIR$/readme_attach/Allure_Report.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/Graphs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/Jenkins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/Selenoid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/Telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/allure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/allure_suits.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Allure_Report.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/GitHub.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Gradle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Intelij_IDEA.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/JUnit5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Java.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Jenkins.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Selenide.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Selenoid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/design/Telegram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/selenoid.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme_attach/telegram_allure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Allure_Report.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/GitHub-Mark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Gradle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Intelij_IDEA.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/JUnit5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jenkins.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Selenide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Selenoid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Telegram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/RabotaRuTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,12 +69,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/rabotaru/readme_attach/design&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
@@ -113,7 +84,7 @@
       <recent name="C:\Users\User\IdeaProjects\rabotaru\src\test\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.RabotaRuTests">
+  <component name="RunManager" selected="Gradle.RabotaRuTests.searchMainPageTest">
     <configuration name="RabotaRuTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -137,7 +108,7 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="RabotaRuTests.createResumeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="RabotaRuTests.checkboxesInFilterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -150,7 +121,30 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;tests.RabotaRuTests.createResumeTest&quot;" />
+            <option value="&quot;tests.RabotaRuTests.checkboxesInFilterTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RabotaRuTests.searchMainPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;tests.RabotaRuTests.searchMainPageTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -172,27 +166,6 @@
         <option name="taskNames">
           <list>
             <option value="allureReport" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="rabotaru [allureServe]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="allureServe" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -225,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.RabotaRuTests.searchMainPageTest" />
+        <item itemvalue="Gradle.RabotaRuTests.checkboxesInFilterTest" />
         <item itemvalue="Gradle.RabotaRuTests" />
         <item itemvalue="Gradle.rabotaru [regression_tests]" />
         <item itemvalue="Gradle.rabotaru [allureReport]" />
-        <item itemvalue="Gradle.rabotaru [allureServe]" />
-        <item itemvalue="Gradle.RabotaRuTests.createResumeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +215,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
-      <workItem from="1673970931246" duration="16052000" />
+      <workItem from="1673970931246" duration="16485000" />
+      <workItem from="1674234565144" duration="1203000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -300,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673985380572</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added Readme">
+      <created>1673987849683</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673987849683</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
