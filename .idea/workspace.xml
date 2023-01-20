@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Readme.md tune" />
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Readme.md tune 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +68,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
+      <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\images\design" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru" />
       <recent name="C:\Users\User\IdeaProjects\rabotaru\src\test\java" />
@@ -212,7 +212,7 @@
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
       <workItem from="1673970931246" duration="16485000" />
-      <workItem from="1674234565144" duration="6340000" />
+      <workItem from="1674234565144" duration="6768000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -298,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674241420064</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Readme.md tune 2">
+      <created>1674241657367</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674241657367</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +334,7 @@
     <MESSAGE value="Refactor" />
     <MESSAGE value="tune names +Readme.md" />
     <MESSAGE value="Readme.md tune" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme.md tune" />
+    <MESSAGE value="Readme.md tune 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md tune 2" />
   </component>
 </project>
