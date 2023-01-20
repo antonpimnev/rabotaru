@@ -63,32 +63,32 @@
 gradle clean test 
 ```
 
-## <img  width="30" height="30" title="Jenkins" src="/readme_attach/design/Jenkins.svg"> Удаленный запуск тестов в Jenkins
+## <img  width="30" height="30" title="Jenkins" src="/readme_attach/design/Jenkins.png"> Удаленный запуск тестов в Jenkins
 
 > Для запуска тестов используется параметризированная сборка
 <p align="center">
 <img title="Jenkins" src="readme_attach/settings.png">
 </p>
 
-## <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.svg"> Главная страница allure отчета
+## <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.png"> Главная страница allure отчета
 
 <p align="center">
 <img title="Allure_main" src="readme_attach/allure.png">
 </p>
 
-### <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.svg"> Тест кейсы в отчете allure
+### <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.png"> Тест кейсы в отчете allure
 
 <p align="center">
 <img title="Allure_suits" src="readme_attach/allure_suits.png">
 </p>
 
-### <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.svg"> Основной дашборд
+### <img width="30" height="30" title="Allure_Report" src="readme_attach/design/Allure_Report.png"> Основной дашборд
 
 <p align="center">
 <img title="Allure_dashboard" src="readme_attach/graphs.png">
 </p>
 
-## <img width="30" height="30" title="Telegram" src="readme_attach/design/Telegram.svg"> Уведомления в Telegram с использованием бота
+## <img width="30" height="30" title="Telegram" src="readme_attach/design/Telegram.png"> Уведомления в Telegram с использованием бота
 
 > После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом о проведенных тестах.
 >
@@ -98,7 +98,7 @@ gradle clean test
 <img title="Telegram_notifications" src="readme_attach/telegram_allure.png">
 </p>
 
-## <img width="30" height="30" title="Selenoid" src="readme_attach/design/Selenoid.svg"> Пример запуска теста в Selenoid
+## <img width="30" height="30" title="Selenoid" src="readme_attach/design/Selenoid.png"> Пример запуска теста в Selenoid
 
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
 
