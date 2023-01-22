@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Readme.md tune 2" />
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Readme.md tune 3">
+      <change afterPath="$PROJECT_DIR$/src/test/java/config/ProjectConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +74,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design"
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -212,7 +224,8 @@
       <updated>1673901170830</updated>
       <workItem from="1673901172917" duration="479000" />
       <workItem from="1673970931246" duration="16485000" />
-      <workItem from="1674234565144" duration="6768000" />
+      <workItem from="1674234565144" duration="7435000" />
+      <workItem from="1674365430105" duration="5205000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -305,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674241657367</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Readme.md tune 3">
+      <created>1674242044397</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674242044397</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,6 +355,7 @@
     <MESSAGE value="tune names +Readme.md" />
     <MESSAGE value="Readme.md tune" />
     <MESSAGE value="Readme.md tune 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme.md tune 2" />
+    <MESSAGE value="Readme.md tune 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md tune 3" />
   </component>
 </project>
