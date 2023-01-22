@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Readme.md tune 3">
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/ProjectConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/config/WebConfig.java" afterDir="false" />
+    <list default="true" id="9aa7bf96-13f7-4ff9-b641-c9ec8f9e5084" name="Changes" comment="Add Owner">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,18 +68,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "SELECTIVE",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/rabotaru/readme_attach/design",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable&quot;: &quot;SELECTIVE&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/rabotaru/readme_attach/design&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\rabotaru\readme_attach\design" />
@@ -225,7 +222,9 @@
       <workItem from="1673901172917" duration="479000" />
       <workItem from="1673970931246" duration="16485000" />
       <workItem from="1674234565144" duration="7435000" />
-      <workItem from="1674365430105" duration="5205000" />
+      <workItem from="1674365430105" duration="6061000" />
+      <workItem from="1674384264145" duration="87000" />
+      <workItem from="1674384615867" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="1st">
       <created>1673901616638</created>
@@ -325,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674242044397</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Owner">
+      <created>1674371837016</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674371837016</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +362,7 @@
     <MESSAGE value="Readme.md tune" />
     <MESSAGE value="Readme.md tune 2" />
     <MESSAGE value="Readme.md tune 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme.md tune 3" />
+    <MESSAGE value="Add Owner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Owner" />
   </component>
 </project>
